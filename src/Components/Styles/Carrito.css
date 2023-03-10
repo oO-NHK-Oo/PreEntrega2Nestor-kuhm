@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carrito{
+    margin: 50px auto;
+    border: solid 10px;
+    width: 80%;
+    padding: 50px;
+    color: #000000;
+    justify-content: center;    
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    color: #fff;
+}

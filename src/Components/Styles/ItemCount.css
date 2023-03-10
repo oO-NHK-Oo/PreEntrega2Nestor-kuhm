@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.contador{
+    display: flex;
+    height: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    top: 15px;
+    
+   
+    
+}
+
+.contador button{
+    height: 20px;
+    right:  15px;
+    color: rgb(255, 255, 255);
+}
+
+.boton-carrito button{
+    height: 25px;
+    width: 100%;
+    position: relative;
+    top: 25px;
+    
+}
+
+h5{
+    position: relative;
+    right: 15px;
+    font-size: small;
+    width: 150px;
+    margin: 0;
+    border-radius: solid 5px;
+    color:rgb(255, 255, 255)
+}

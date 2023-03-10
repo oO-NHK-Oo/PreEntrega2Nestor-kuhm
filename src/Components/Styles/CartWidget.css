@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contador{
+    position: relative;
+    left: 15px; 
+}
+
+.Widget{
+    position: relative;
+    bottom: 10px;
+}

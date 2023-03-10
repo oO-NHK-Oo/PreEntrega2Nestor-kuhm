@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tarjeta-de-productos{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 30px;
+   
+    
+}
+
+.Card{
+    margin-bottom: 50px;
+}
+
+.contenedor-leerMas{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.leerMas{
+    height: 25px;
+top: 50px;
+    width: 50%;
+  
+}

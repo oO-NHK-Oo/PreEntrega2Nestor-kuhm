@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.contenedor{
+    width: 100%;
+    display: flex;
+    padding: 50px;
+    gap: 30px;
+    background-image: url(https://www.gamestorrents.fm/wp-content/themes/GamesTorrent/css/images/body1.jpg);
+    
+}
+
+ .texto-info{
+    padding: 20px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+
+
+#imagen{
+    
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left:  90px;
+    bottom: 35px;
+
+}
+
+h4{
+    color: #fff;
+    display: flex;
+}
+
+.descripcion{
+    width: 100%;
+    color: #fff;
+    padding: 50px;
+    font-size:large;
+}
